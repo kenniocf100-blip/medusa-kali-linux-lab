@@ -1,0 +1,7 @@
+*.log
+*.pcap
+*.cap
+*.cookie
+*.jar
+.env
+__pycache__/
