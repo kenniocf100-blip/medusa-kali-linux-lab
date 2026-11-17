@@ -186,15 +186,7 @@ Edite este parágrafo para refletir **o que realmente aconteceu** no seu ambient
 - [Nmap — referência oficial](https://nmap.org/book/man.html)
 - [GitHub — guia de início rápido](https://docs.github.com/pt/get-started)
 
-## 13. Checklist de entrega
 
-- [ ] Assisti às aulas do desafio.
-- [ ] Configurei Kali e Metasploitable 2 em rede isolada.
-- [ ] Registrei IPs e serviços realmente encontrados.
-- [ ] Executei e validei os cenários que foram possíveis.
-- [ ] Documentei limitações e possíveis falsos positivos.
-- [ ] Adicionei capturas próprias sem credenciais sensíveis.
-- [ ] Revisei o README e removi todos os campos `PREENCHER`.
 - [ ] Publiquei o repositório como público e enviei o link na DIO.
 
 ---
