@@ -1,4 +1,4 @@
-# Auditoria de senhas em laboratório: Kali Linux + Medusa
+ # Auditoria de senhas em laboratório: Kali Linux + Medusa
 
 > Projeto educacional para demonstrar auditoria de autenticação em ambiente **próprio, isolado e autorizado**. Os comandos abaixo devem ser executados somente contra as VMs do laboratório.
 
@@ -186,8 +186,3 @@ Edite este parágrafo para refletir **o que realmente aconteceu** no seu ambient
 - [Nmap — referência oficial](https://nmap.org/book/man.html)
 - [GitHub — guia de início rápido](https://docs.github.com/pt/get-started)
 
-
-- [ ] Publiquei o repositório como público e enviei o link na DIO.
-
----
-**Aviso:** este repositório é um relatório de laboratório. Os resultados e as evidências devem ser produzidos pelo autor durante a execução real das VMs.
